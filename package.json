@@ -1,0 +1,25 @@
+{
+  "name": "kitchenSink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DariusThomas/kitchenSink.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DariusThomas/kitchenSink/issues"
+  },
+  "homepage": "https://github.com/DariusThomas/kitchenSink#readme",
+  "dependencies": {
+    "ts-loader": "^5.3.3",
+    "typescript": "^3.4.3"
+  }
+}
